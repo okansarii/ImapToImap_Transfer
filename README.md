@@ -1,4 +1,4 @@
-# 🚀 ImapToImap_Transfer
+# 🚀 Imap to Imap Transfer
 
 [**TR**](#t%C3%BCrk%C3%A7e) | [**EN**](#english)
 
