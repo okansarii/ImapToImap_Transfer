@@ -33,6 +33,9 @@ git clone https://github.com/okansarii/ImapToImap_Transfer.git
 cd ImapToImap_Transfer
 dotnet run
 ```
+<img width="993" height="894" alt="image" src="https://github.com/user-attachments/assets/ec55e0a7-cc5a-4fd1-ac5b-0e5f2a25e3a8" />
+<img width="984" height="887" alt="image" src="https://github.com/user-attachments/assets/15a4698f-3dfc-4436-9433-f2a89656dd02" />
+
 
 ---
 
