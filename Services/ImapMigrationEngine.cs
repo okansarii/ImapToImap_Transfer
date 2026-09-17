@@ -6,13 +6,13 @@ using System.Linq;
 using System.Net.Sockets;
 using System.Threading;
 using System.Threading.Tasks;
-using ImapMigrator.Models;
+using ImapToImap_Transfer.Models;
 using MailKit;
 using MailKit.Net.Imap;
 using MailKit.Security;
 using MimeKit;
 
-namespace ImapMigrator.Services
+namespace ImapToImap_Transfer.Services
 {
     public class ImapMigrationEngine
     {

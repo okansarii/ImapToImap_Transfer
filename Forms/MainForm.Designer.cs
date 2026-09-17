@@ -1,4 +1,4 @@
-namespace ImapMigrator.Forms
+namespace ImapToImap_Transfer.Forms
 {
     partial class MainForm
     {
@@ -172,7 +172,7 @@ namespace ImapMigrator.Forms
             this.grpSource.Size = new System.Drawing.Size(450, 200);
             this.grpSource.TabIndex = 0;
             this.grpSource.TabStop = false;
-            this.grpSource.Text = "Kaynak Sunucu (Yandex IMAP)";
+            this.grpSource.Text = "Kaynak Sunucu (IMAP)";
 
             // Source Host & Port & SSL
             this.lblSourceHost.AutoSize = true;
@@ -404,7 +404,7 @@ namespace ImapMigrator.Forms
             this.colSelect.HeaderText = "Seç";
             this.colSelect.FillWeight = 15F;
 
-            this.colSourceFolder.HeaderText = "Kaynak Klasör (Yandex)";
+            this.colSourceFolder.HeaderText = "Kaynak Klasör";
             this.colSourceFolder.ReadOnly = true;
             this.colSourceFolder.FillWeight = 40F;
 
@@ -554,7 +554,7 @@ namespace ImapMigrator.Forms
             this.MinimumSize = new System.Drawing.Size(1000, 800);
             this.Name = "MainForm";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "ImapMigrator - Yandex & High-Volume IMAP Mail Migration Engine";
+            this.Text = "ImapToImap_Transfer - High-Volume IMAP Mail Migration Engine";
 
             this.mainSplitContainer.Panel1.ResumeLayout(false);
             this.mainSplitContainer.Panel2.ResumeLayout(false);

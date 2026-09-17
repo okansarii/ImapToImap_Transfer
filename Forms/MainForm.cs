@@ -5,10 +5,10 @@ using System.Linq;
 using System.Threading;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using ImapMigrator.Models;
-using ImapMigrator.Services;
+using ImapToImap_Transfer.Models;
+using ImapToImap_Transfer.Services;
 
-namespace ImapMigrator.Forms
+namespace ImapToImap_Transfer.Forms
 {
     public partial class MainForm : Form
     {

@@ -1,8 +1,8 @@
 using System;
 using System.Windows.Forms;
-using ImapMigrator.Forms;
+using ImapToImap_Transfer.Forms;
 
-namespace ImapMigrator
+namespace ImapToImap_Transfer
 {
     static class Program
     {

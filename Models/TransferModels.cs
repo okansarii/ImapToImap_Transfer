@@ -1,6 +1,6 @@
 using System;
 
-namespace ImapMigrator.Models
+namespace ImapToImap_Transfer.Models
 {
     public class ImapServerConfig
     {

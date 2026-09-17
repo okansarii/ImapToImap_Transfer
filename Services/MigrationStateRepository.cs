@@ -3,7 +3,7 @@ using System.IO;
 using System.Threading.Tasks;
 using Microsoft.Data.Sqlite;
 
-namespace ImapMigrator.Services
+namespace ImapToImap_Transfer.Services
 {
     public class MigrationStateRepository
     {

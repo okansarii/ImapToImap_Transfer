@@ -1,7 +1,7 @@
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace ImapMigrator.Services
+namespace ImapToImap_Transfer.Services
 {
     public class PauseTokenSource
     {
