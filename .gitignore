@@ -1,0 +1,22 @@
+# .NET / C# / Visual Studio gitignore
+bin/
+obj/
+.vs/
+*.user
+*.userosscache
+*.sln.docstates
+
+# SQLite Migration State DB
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
+migration_state.db
+
+# Windows OS Files
+Thumbs.db
+Desktop.ini
+
+# Rider / VSCode
+.idea/
+.vscode/
